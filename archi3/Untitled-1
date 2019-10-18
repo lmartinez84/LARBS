@@ -1,0 +1,36 @@
+yay -S acestream-engine \
+yay -S acestream-launcher \
+yay -S chromium-widevine \
+yay -S downgrade \
+yay -S dropbox \
+yay -S jetbrains-toolbox \ 
+yay -S postman-bin \
+yay -S visual-studio-code-bin \
+#yay -S vmware-keymaps \
+#yay -S vmware-workstation \
+yay -S zoom 
+pacman -S boost \
+calibre \
+chromium \
+cmake \
+docker \
+docker-compose \
+dotnet-runtime \
+downgrade \
+gradle \
+bzip2 \
+gzip \
+jdk-openjdk \
+kotlin \
+maven \
+nodejs \ 
+npm \
+ntfs-3g \
+openssh \ 
+unrar \
+unzip \
+zsh \
+reflector \
+stack \
+ranger \
+neomutt \
